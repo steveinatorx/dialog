@@ -20,8 +20,9 @@
   },
   "licenses": "MIT",
   "files": [
-    "lib",
-    "assets"
+    "src",
+    "assets",
+    "typings"
   ],
   "main": "./lib/DialogWrap",
   "config": {

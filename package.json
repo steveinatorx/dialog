@@ -21,7 +21,7 @@
   "licenses": "MIT",
   "files": [
     "lib",
-    "assets/*.css"
+    "assets/*.less"
   ],
   "main": "./lib/DialogWrap",
   "config": {
